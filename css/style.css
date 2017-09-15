@@ -1,0 +1,134 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	text-align: center;
+
+}
+
+/**********************************
+ ************* image **************
+***********************************/
+.image {
+	background-color: #e4e4e4;
+	width: 100vw;
+	height: 60vh;
+}
+
+.image h1 {
+	font-size: 60px;
+	padding-top: 50px;
+}
+
+.image img {
+	width: 60%;
+	padding-top: 40px;
+}
+
+.image p {
+	font-size: 45px;
+	padding: 20px 50px;
+}
+
+.button {
+	font-size: 40px;
+	background-color: green;
+	margin-top: 30px;
+	padding: 15px 25px;
+}
+
+/*************************************
+ ************* services **************
+*************************************/
+.services {
+	background-color: #ededed;
+	width: 100vw;
+	/*height: 600px;*/
+	padding-bottom: 60px;
+}
+
+.services h1 {
+	font-size: 50px;
+	padding-top: 80px;
+}
+
+.single-service {
+	background-color: #e1e7ed;
+	width: 80vw;
+	height: 600px;
+	margin: 0 auto;
+	margin-top: 80px;
+	/*margin-bottom: 20px;*/
+}
+
+.service-title {
+	font-size: 50px;
+	background-color: #D05353;
+	padding: 10px 0;
+}
+
+.taxi { color: white; }
+.limosinas { background-color: #2CF6B3; }
+.mudanzas { background-color: #DF2935; color: white; }
+.viajes-largos { background-color: #16DB65 }
+
+
+/*************************************
+ ************* Prices ****************
+*************************************/
+.prices {
+	background-color: #e4e4e4;
+	width: 100vw;
+	padding-top: 140px;
+	padding-bottom: 140px;
+}
+
+.prices h1 {
+	margin-bottom: 50px;
+	/*font-size: 60px;*/
+}
+
+.prices ul {
+	list-style: none;
+	margin-top: 80px;
+}
+
+.prices ul li {
+	font-size: 30px;
+	margin-top: 50px;
+}
+
+.prices ul li span {
+	font-size: 16px;
+	font-style: italic;
+}
+
+/*************************************
+ ************* Footer ****************
+*************************************/
+.footer {
+	width: 100vw;
+	height: 300px;
+	background-color: #197278;
+}
+
+.footer p {
+	font-size: 50px;
+	color: white;
+	padding-top: 110px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
