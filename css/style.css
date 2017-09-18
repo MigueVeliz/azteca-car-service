@@ -93,7 +93,9 @@ a {
 }
 
 .single-service img {
+	/*background-color: white;*/
 	width: 65%;
+	margin-top: 75px;
 }
 
 .service-title {
