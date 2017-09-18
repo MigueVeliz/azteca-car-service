@@ -18,7 +18,7 @@ a {
 ***********************************/
 .image {
 	width: 100vw;
-	height: 100vh;
+	/*height: 100vh;*/
 	/*background: url("../img/bg2.jpg");*/
 	background-color: #e4e4e4; /*originial*/
 	background-color: #FF5D73;
