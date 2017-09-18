@@ -12,17 +12,21 @@
  ************* image **************
 ***********************************/
 .image {
-	/*background: url("../img/bg2.jpg");*/
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: #e4e4e4; /*originial*/
-	background-color: #70B77E;
 	width: 100vw;
 	height: 60vh;
+	/*background: url("../img/bg2.jpg");*/
+	background-color: #e4e4e4; /*originial*/
+	background-color: #FF5D73;
+	/*background: url("../img/bg.jpg");*/
+	/*opacity: 0.2;*/
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
 }
 
 .image h1 {
-	color: #0B132B;
+	color: white;
 	font-size: 60px;
 	padding-top: 50px;
 }
@@ -33,6 +37,7 @@
 }
 
 .image p {
+	color: white;
 	font-size: 45px;
 	padding: 20px 50px;
 }
@@ -40,8 +45,8 @@
 .button {
 	width: 80%;
 	font-size: 50px;
-	background-color: #D62839;
-	color: white;
+	background-color: #FAFF00;
+	color: black;
 	margin: 0 auto;
 	margin-top: 30px;
 	padding: 25px 0;
@@ -49,6 +54,7 @@
 
 .button:hover {
 	background-color: #17183B;
+	color: white;
 }
 
 /*************************************
@@ -56,14 +62,17 @@
 *************************************/
 .services {
 	background-color: #ededed;
+	background-color: #0F110C;
 	width: 100vw;
 	/*height: 600px;*/
 	padding-bottom: 60px;
 }
 
 .services h1 {
+	color: white;
 	font-size: 50px;
-	padding-top: 80px;
+	padding: 80px 30px 0px 30px;
+
 }
 
 .single-service {
