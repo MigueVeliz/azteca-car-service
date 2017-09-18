@@ -22,7 +22,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 
-
+	padding-bottom: 30px;
 }
 
 .image h1 {
@@ -48,7 +48,7 @@
 	background-color: #FAFF00;
 	color: black;
 	margin: 0 auto;
-	margin-top: 20px;
+	/*margin-top: 20px;*/
 	padding: 12px 0;
 }
 
