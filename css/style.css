@@ -6,6 +6,7 @@
 
 a {
 	text-decoration: none;
+	color: white;
 }
 
 .container {
@@ -22,7 +23,7 @@ a {
 	height: 100vh;
 	/*background: url("../img/bg2.jpg");*/
 	background-color: #e4e4e4; /*originial*/
-	background-color: #FF5D73;
+	background-color: #5FDD9D;
 	/*background: url("../img/bg.jpg");*/
 	/*opacity: 0.2;*/
 	background-repeat: no-repeat;
@@ -52,7 +53,8 @@ a {
 	width: 80vw;
 	font-size: 20px;
 	background-color: #FAFF00;
-	color: black;
+	background-color: crimson;
+	color: white;
 	margin: 0 auto;
 	/*margin-top: 20px;*/
 	padding: 12px 0;
@@ -68,14 +70,14 @@ a {
 *************************************/
 .services {
 	background-color: #ededed;
-	background-color: #001A23;
+	/*background-color: #001A23;*/
 	width: 100vw;
 	/*height: 600px;*/
 	padding-bottom: 60px;
 }
 
 .services h1 {
-	color: white;
+	color: black;
 	font-size: 30px;
 	padding: 60px 10px 0px 10px;
 
